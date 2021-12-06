@@ -1,5 +1,6 @@
 final int SQUARESIZE = 100;
 Board board;
+int d;
 KomaList komaList;
 GameStatus gs;
 
